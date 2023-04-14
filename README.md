@@ -1,7 +1,7 @@
 # PlatPos
 Simulation for bidder's strategy which contains solving HJB equation, transportation equation and fix poiont problem.
 
-Our simulation can be divided into four parts as following,\\
+Our simulation can be divided into four parts as following,
 1.(Z_eq1.m) Sovle Z_eq by Simpson's Rule which is trivial;
 
 2.p(HJB1.m) Sovle HJB equation by finite difference method and get strategy v;
